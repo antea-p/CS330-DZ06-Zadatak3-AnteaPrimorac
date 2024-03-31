@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CS330-DZ06-Zadatak3-AnteaPrimorac5157</string>
+    <string name="action_settings">Settings</string>
+    <string name="frame_demo">Frame Demo</string>
+    <string name="landscape_toast">Perfect for Van Gogh aficionados.</string>
+    <string name="portrait_toast">Perfect for taking PORTRAITS.</string>
+    <string name="email_subject">SPROUT MOLE</string>
+    <string name="email_body">I\'m a SPROUT MOLE, a very high-functioning and intelligent creature.</string>
+    <string name="choose_a_mole">Choose-a-mole</string>
+    <string name="lucky">Congrats, you\'ve just triggered Intent!</string>
+    <string-array name="mole_names">
+        <item>Sprout Mole</item>
+        <item>Box Mole</item>
+        <item>Warden Mole</item>
+    </string-array>
+</resources>
